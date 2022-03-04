@@ -12,7 +12,7 @@
 -->
 
 ### Código
-
+<br>
 
 
 ![JavaScript](https://img.icons8.com/color/50/000000/javascript--v1.png)
@@ -22,7 +22,7 @@ var v = "variable"
 
 >*   Práticas com JavaScript
 
-
+<br><br>
 
 ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
 ~~~javascript
@@ -68,7 +68,7 @@ connection.query('SELECT * FROM heroku_ad279c73e8320b2.analise WHERE numero = 01
 >*   Realizando conexão com banco de dados em nuvem, usando o CleaDB do Heroku com NodeJs usando o modulo mysql
 >*   Usando variaveis de ambiente com o modulo dotenv
 
-
+<br><br>
 
 ![PHP](https://img.icons8.com/offices/50/000000/php-logo.png)
 ~~~php
@@ -117,7 +117,7 @@ function connect_db_mysqli()
 >*   Realizando conexão com banco de dados em nuvem, usando o CleaDB do Heroku com PHP usando o modulo mysql
 >*   Usando variaveis de ambiente com o modulo dotenv
 
-
+<br><br>
 
 ![Python](https://img.icons8.com/color/50/000000/python--v1.png)
 ~~~python
@@ -157,7 +157,7 @@ for x in mycursor:
 >*   Usando variaveis de ambiente com o modulo dotenv
 
 
-
+<br><br>
 
 
 ![MySQL](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
@@ -169,7 +169,7 @@ SELECT * FROM "variable" WHERE table = "variable";
 
 
 
-
+<br><br><br>
 
 
 
