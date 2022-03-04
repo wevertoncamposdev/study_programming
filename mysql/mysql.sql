@@ -1,0 +1,1 @@
+SELECT * FROM "variable" WHERE table = "variable";
