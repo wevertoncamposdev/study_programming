@@ -172,7 +172,7 @@ SELECT * FROM "variable" WHERE table = "variable";
 
 
 
->   ### Analisando a sintaxe dessas liguagens para realizar conexão com banco de dados usando variaveia de ambiente,
+>   ### Analisando a sintaxe dessas liguagens para realizar conexão com banco de dados usando variaveis de ambiente,
 >* **Python** é muito mais ágil para realizar conexão e consultas MySQL
 >* **Nodejs** é mais simples para implantar e utilizar o modulo dotnet, fácil para conectar ao banco de dados, tem mais recursos para tratar callback, porém para consultas MySQl não é tão ágil.
 >* **PHP** para configura dotnet é mais complexo com o detalhe do autoload.php, para realizar conexão com o banco de dados é simples, para realizar consultas é tranquilo, porém existe demora no retorno das querys.
