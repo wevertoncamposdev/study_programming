@@ -44,13 +44,15 @@
 ###Temas que serão abordados
 >*   
 >*  Preparação do ambiente
->*  Gerenciadores de pacote
->*  Variáveis de ambiente
->*  Conexão com o banco de dados
->*  Consultas de banco de dados
->*  BigQuery (https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008678&utm_content=text-ad-none-any-DEV_c-CRE_429626774337-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Data-Analytics_BigQuery-KWID_43700040482195741-kwd-372661971564&utm_term=KW_bigquery-ST_BigQuery&gclid=CjwKCAiAsYyRBhACEiwAkJFKokZeASduZOFVVn2ehSyxB9LAR8tl8URfil4cbhJk4YEuS8Bylzm-nRoCqTUQAvD_BwE&gclsrc=aw.ds)
->*  Autenticação de acesso
->*  Criptografia
+>*  Documentação NodeJS (https://nodejs.org/en/docs/)
+>*  Documentação PHP (https://www.php.net/docs.php)
+>*  Documentação Python (https://docs.python.org/3/)
+>*  Gerenciadores de pacote (https://www.npmjs.com/), (https://getcomposer.org/)
+>*  Variáveis de ambiente (https://www.npmjs.com/package/dotenv)
+>*  Conexão e consultas com o banco de dados
+>*  BigQuery (https://cloud.google.com/bigquery/docs/quickstarts/quickstart-web-ui)
+>*  Autenticação de acesso (https://auth0.com/docs/)
+>*  Criptografia (https://nodejs.org/api/crypto.html)
 >*  APIRest (https://docs.github.com/pt/rest)
 >*  SoketIO (https://socket.io/docs/v4/)
 >*  API (https://docs.github.com/pt)
