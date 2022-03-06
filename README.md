@@ -15,6 +15,7 @@
 <hr>
 <br>
 
+[JavaScript](https://github.com/wevertoncamposdev/study_programming/tree/main/javascript)
 
 ![JavaScript](https://img.icons8.com/color/50/000000/javascript--v1.png)
 ~~~javascript
