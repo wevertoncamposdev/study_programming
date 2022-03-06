@@ -44,6 +44,10 @@
 >###    Temas que serão abordados
 >
 >*  Preparando o ambiente
+>NodeJS (https://nodejs.org/en/download/); 
+>XAMMP PHP (https://www.apachefriends.org/pt_br/download.html); 
+>Python (https://www.python.org/downloads/)
+
 >*  Documentação NodeJS (https://nodejs.org/en/docs/)
 >*  Documentação PHP (https://www.php.net/docs.php)
 >*  Documentação Python (https://docs.python.org/3/)
