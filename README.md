@@ -40,10 +40,9 @@
 [API's](https://github.com/wevertoncamposdev/study_programming/tree/main/api)
 
 
-
-###Temas que serão abordados
-
->*  Preparação do ambiente
+>### Temas que serão abordados
+>
+>*  Preparando o ambiente
 >*  Documentação NodeJS (https://nodejs.org/en/docs/)
 >*  Documentação PHP (https://www.php.net/docs.php)
 >*  Documentação Python (https://docs.python.org/3/)
