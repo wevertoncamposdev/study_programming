@@ -177,3 +177,181 @@ SELECT * FROM "variable" WHERE table = "variable";
 >* **Nodejs** é mais simples para implantar e utilizar o modulo dotnet, fácil para conectar ao banco de dados, tem mais recursos para tratar callback, porém para consultas MySQl não é tão ágil.
 >* **PHP** para configura dotnet é mais complexo com o detalhe do autoload.php, para realizar conexão com o banco de dados é simples, para realizar consultas é tranquilo, porém existe demora no retorno das querys.
 
+
+<table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+    <tbody>
+        <tr>
+            <td>
+                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                    <tbody>
+                        <tr>
+                            <td style="vertical-align: top;">
+                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                    <tbody>
+                                        <!-- Link Github -->
+                                        <tr>
+                                            <td style="text-align: center;">
+                                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial; display: inline-block;">
+                                                    <tbody>
+                                                        <tr style="text-align: center;">
+                                                            <td><a href="https://github.com/wevertoncamposdev"
+                                                                    color="#6A78D1" class="sc-hzDkRC kpsoyz"
+                                                                    style="display: inline-block; padding: 0px; background-color: rgb(106, 120, 209);"><img
+                                                                        src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/github-icon-2x.png"
+                                                                        alt="facebook" color="#6A78D1" height="24"
+                                                                        class="sc-bRBYWo ccSRck"
+                                                                        style="background-color: rgb(106, 120, 209); max-width: 135px; display: block;"></a>
+                                                            </td>
+                                                            <td width="5">
+                                                                <div></div>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                    
+                                </table>
+                            </td>
+                            <td width="46">
+                                <div></div>
+                            </td>
+                            <td style="padding: 0px; vertical-align: middle;">
+                                <h3 color="#000000" class="sc-fBuWsC eeihxG"
+                                    style="margin: 0px; font-size: 18px; color: rgb(0, 0, 0);">
+                                    <span>Weverton</span><span>&nbsp;</span><span>Campos</span></h3>
+                                <p color="#000000" font-size="medium" class="sc-fMiknA bxZCMx"
+                                    style="margin: 0px; color: rgb(0, 0, 0); font-size: 14px; line-height: 22px;">
+                                    <span>TI - Desenvolvedor</span></p>
+                                    
+                                
+                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial; width: 100%;">
+                                    <tbody>
+                                        
+                                        <tr>
+                                            <td color="#F2547D" direction="horizontal" height="1"
+                                                class="sc-jhAzac hmXDXQ"
+                                                style="width: 100%; border-bottom: 1px solid rgb(242, 84, 125); border-left: none; display: block;">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                    <tbody>
+                                        
+                                        <tr height="25" style="vertical-align: middle;">
+                                            <td width="30" style="vertical-align: middle;">
+                                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="vertical-align: bottom;"><span color="#F2547D"
+                                                                    width="11" class="sc-jlyJG bbyJzT"
+                                                                    style="display: block; background-color: rgb(242, 84, 125);"><img
+                                                                        src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/phone-icon-2x.png"
+                                                                        color="#F2547D" width="13"
+                                                                        class="sc-iRbamj blSEcj"
+                                                                        style="display: block; background-color: rgb(242, 84, 125);"></span>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td style="padding: 0px; color: rgb(0, 0, 0);"><a href="https://api.whatsapp.com/send?phone=5517992114611"
+                                                    color="#000000" class="sc-gipzik iyhjGb"
+                                                    style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;"><span>(17)
+                                                        99211-4611</span></a></td>
+                                        </tr>
+                                        <tr height="25" style="vertical-align: middle;">
+                                            <td width="30" style="vertical-align: middle;">
+                                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="vertical-align: bottom;"><span color="#F2547D"
+                                                                    width="11" class="sc-jlyJG bbyJzT"
+                                                                    style="display: block; background-color: rgb(242, 84, 125);"><img
+                                                                        src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/email-icon-2x.png"
+                                                                        color="#F2547D" width="13"
+                                                                        class="sc-iRbamj blSEcj"
+                                                                        style="display: block; background-color: rgb(242, 84, 125);"></span>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td style="padding: 0px;"><a href="mailto:wevertoncamposdev@gmail.com"
+                                                    color="#000000" class="sc-gipzik iyhjGb"
+                                                    style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;"><span>wevertoncamposdev@gmail.com</span></a>
+                                            </td>
+                                        </tr>
+                                        <tr height="25" style="vertical-align: middle;">
+                                            <td width="30" style="vertical-align: middle;">
+                                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="vertical-align: bottom;"><span color="#F2547D"
+                                                                    width="11" class="sc-jlyJG bbyJzT"
+                                                                    style="display: block; background-color: rgb(242, 84, 125);"><img
+                                                                        src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/link-icon-2x.png"
+                                                                        color="#F2547D" width="13"
+                                                                        class="sc-iRbamj blSEcj"
+                                                                        style="display: block; background-color: rgb(242, 84, 125);"></span>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td style="padding: 0px;"><a href="https://wevertoncamposdev.github.io/study_programming/"
+                                                    color="#000000" class="sc-gipzik iyhjGb"
+                                                    style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;"><span>https://wevertoncamposdev.github.io/study_programming/</span></a>
+                                            </td>
+                                        </tr>
+                                        <tr height="25" style="vertical-align: middle;">
+                                            <td width="30" style="vertical-align: middle;">
+                                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="vertical-align: bottom;"><span color="#F2547D"
+                                                                    width="11" class="sc-jlyJG bbyJzT"
+                                                                    style="display: block; background-color: rgb(242, 84, 125);"><img
+                                                                        src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/address-icon-2x.png"
+                                                                        color="#F2547D" width="13"
+                                                                        class="sc-iRbamj blSEcj"
+                                                                        style="display: block; background-color: rgb(242, 84, 125);"></span>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td style="padding: 0px;"><span color="#000000" class="sc-csuQGl CQhxV"
+                                                    style="font-size: 12px; color: rgb(0, 0, 0);"><span> Av. Dr. Walter Belian - Ribeirão PretoSP, 14093-220
+                                                    </span></span></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" class="sc-gPEVay eQYmiW"
+                                    style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
+                                    <tbody>
+                                        <tr>
+                                            <td height="30"></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
