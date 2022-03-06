@@ -41,7 +41,7 @@
 
 
 
->*  ###Temas que serão abordados
+###Temas que serão abordados
 >*   
 >*  Preparação do ambiente
 >*  Gerenciadores de pacote
