@@ -16,29 +16,29 @@
 [JavaScript](https://github.com/wevertoncamposdev/study_programming/tree/main/javascript)
 
 
-<br><hr><br>
+<br><hr>
 
 ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
 [NodeJS](https://github.com/wevertoncamposdev/study_programming/tree/main/node)
 
-<br><hr><br>
+<br><hr>
 
 ![PHP](https://img.icons8.com/offices/50/000000/php-logo.png)
 [PHP](https://github.com/wevertoncamposdev/study_programming/tree/main/php)
 
-<br><hr><br>
+<br><hr>
 
 ![Python](https://img.icons8.com/color/50/000000/python--v1.png)
 [Python](https://github.com/wevertoncamposdev/study_programming/tree/main/python)
 
 
-<br><hr><br>
+<br><hr>
 
 ![MySQL](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
 [MySQL](https://github.com/wevertoncamposdev/study_programming/tree/main/mysql)
 
 
-<br><br><br>
+<br><br>
 
 ![API](https://img.icons8.com/cotton/48/000000/api.png)
 [API's](https://github.com/wevertoncamposdev/study_programming/tree/main/api)
