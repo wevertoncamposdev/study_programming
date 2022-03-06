@@ -27,6 +27,8 @@
 ![Python](https://img.icons8.com/color/50/000000/python--v1.png)
 [Python](https://github.com/wevertoncamposdev/study_programming/tree/main/python)
 
+![Java](https://img.icons8.com/color/50/000000/java--v1.png)
+[Java](https://github.com/wevertoncamposdev/study_programming/tree/main/java)
 
 
 
@@ -47,12 +49,14 @@
 >*  NodeJS <https://nodejs.org/en/download/> 
 >*  XAMMP PHP <https://www.apachefriends.org/pt_br/download.html> 
 >*  Python <https://www.python.org/downloads/>
-> 
+>*  Java <https://www.java.com/pt-BR/download/help/develop.html>
+>
 >### Documentação
 >*  Documentação NodeJS <https://nodejs.org/en/docs/>
 >*  Documentação PHP <https://www.php.net/docs.php>
 >*  Documentação Python <https://docs.python.org/3/>
-> 
+>*  Documentação Java <https://docs.oracle.com/javase/7/docs/api/> 
+>
 >### Módulos
 >*  Gerenciadores de pacote <https://www.npmjs.com/>; <https://getcomposer.org/>
 >*  Variáveis de ambiente <https://www.npmjs.com/package/dotenv>
