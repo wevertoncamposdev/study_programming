@@ -71,5 +71,6 @@
 >*  APIRest <https://docs.github.com/pt/rest>
 >*  SoketIO <https://socket.io/docs/v4/>
 >*  API <https://docs.github.com/pt>
->*  GitHub
-
+>*  HG Brasil <https://hgbrasil.com/>
+>*  ViaCEP <https://viacep.com.br/>
+>*  API Governamental <https://www.gov.br/conecta/catalogo/>; <https://www.portaltransparencia.gov.br/api-de-dados>
