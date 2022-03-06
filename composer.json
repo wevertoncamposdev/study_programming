@@ -1,2 +1,17 @@
 {
+    "name": "weverton/study_programming",
+    "autoload": {
+        "psr-4": {
+            "Weverton\\StudyProgramming\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wevertoncamposdev",
+            "email": "wevertoncamposdev@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
 }
