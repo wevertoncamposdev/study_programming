@@ -40,3 +40,16 @@
 [API's](https://github.com/wevertoncamposdev/study_programming/tree/main/api)
 
 
+
+>*  ###Temas que serão abordados
+>*   
+>*  Preparação do ambiente
+>*  Gerenciadores de pacote
+>*  Variáveis de ambiente
+>*  Conexão com o banco de dados
+>*  Consultas de banco de dados
+>*  Autenticação de acesso
+>*  Criptografia
+>*  APIRest
+>*  SoketIO
+
