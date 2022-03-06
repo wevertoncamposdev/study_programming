@@ -42,18 +42,19 @@
 
 
 ###Temas que serão abordados
->*   
+
 >*  Preparação do ambiente
 >*  Documentação NodeJS (https://nodejs.org/en/docs/)
 >*  Documentação PHP (https://www.php.net/docs.php)
 >*  Documentação Python (https://docs.python.org/3/)
 >*  Gerenciadores de pacote (https://www.npmjs.com/), (https://getcomposer.org/)
 >*  Variáveis de ambiente (https://www.npmjs.com/package/dotenv)
->*  Conexão e consultas com o banco de dados
+>*  Conexão e consultas com o banco de dados (https://dev.mysql.com/doc/)
 >*  BigQuery (https://cloud.google.com/bigquery/docs/quickstarts/quickstart-web-ui)
 >*  Autenticação de acesso (https://auth0.com/docs/)
 >*  Criptografia (https://nodejs.org/api/crypto.html)
 >*  APIRest (https://docs.github.com/pt/rest)
 >*  SoketIO (https://socket.io/docs/v4/)
 >*  API (https://docs.github.com/pt)
+>*  GitHub
 
