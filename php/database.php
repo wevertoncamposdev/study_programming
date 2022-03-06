@@ -1,5 +1,9 @@
 <!-- Instalando dotenv para uso de variaveis de ambiente
     acesse o respositório https://github.com/vlucas/phpdotenv
+
+    composer init
+    composer require vlucas/phpdotenv
+
 -->
 
 
@@ -9,7 +13,7 @@
 require './vendor/autoload.php';
 
 /* iniciar variaveis de ambiente */
-$dotenv = Dotenv\Dotenv::createImmutable('./');
+$dotenv = Dotenv\Dotenv::createImmutable ('./');
 
 /* conectar as variaveis de ambiente */
 $dotenv->load();

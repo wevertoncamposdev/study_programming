@@ -1,4 +1,5 @@
 /* Install dotenv; mysql
+instalar dependencias, npm install
 */
 
 const mysql = require('mysql');
