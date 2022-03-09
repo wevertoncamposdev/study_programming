@@ -82,4 +82,4 @@ study_programming/study_programming" />
 </a>
 
 
-<img src="https://github.com/wevertoncampos.png?size=115" width=115><br><sub>@wevertoncampos</sub>
+<img src="https://github.com/wevertoncamposdev.png" width=115><br><sub>@wevertoncampos</sub>
