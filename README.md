@@ -81,5 +81,5 @@
 
 <br>
 
-### Autor <br>
+### Autores <br>
 <img src="https://github.com/wevertoncamposdev.png" width=115><br><sub>Weverton Campos</sub>
