@@ -89,12 +89,48 @@ class AnaliseCombinatoria{
 
     }
 
+    public function arranjo_simples($n, $p){
+
+        /* ARRANJOS SIMPLES
+        Quando a ordem dos elementos importa, é ultilizado Arranjos Simples
+        Quando a ordem dos elementos importa, é ultilizado a Combinação Simples
+
+        Arranjos simples de n elementos tomados p a p, com n e p e N>=1 e p=<n
+        */
+
+ 
+        $fatorN = $this->fatorial($n);
+        $fatorPN = $this->fatorial($n - $p);
+        $result = $fatorN/$fatorPN;
+
+        return $result;
+
+    }
+
+    public function combinacao_simples($n, $p){
+
+        /* COMBINAÇÕES SIMPLES
+        Quando a ordem dos elementos importa, é ultilizado Arranjos Simples
+        Quando a ordem dos elementos importa, é ultilizado a Combinação Simples
+
+        Arranjos simples de n elementos tomados p a p, com n e p e N>=1 e p=<n
+        */
+
+ 
+        $fatorN = $this->fatorial($n);
+        $fatorP = $this->fatorial($p);
+        $fatorPN = $this->fatorial($n - $p);
+        $result = $fatorN / ($fatorPN * $fatorP);
+
+        return $result;
+
+    }
 
 }
 
 $newAnalise = new AnaliseCombinatoria();
 
-print_r($newAnalise->anagrama(''));
+print_r($newAnalise->arranjo_simples(4,2));
 
 
 
