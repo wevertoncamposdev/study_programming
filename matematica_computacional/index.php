@@ -126,11 +126,37 @@ class AnaliseCombinatoria{
 
     }
 
+    public function binomiais($n, $p){
+        $result = $this->combinacao_simples($n, $p);
+        return $result;
+    }
+
+    public function binomiais_complementares($n, $p, $q){
+        $x = $p + $q;
+        $result1 = $this->combinacao_simples($n, $p);
+        $result2 = $this->combinacao_simples($n, $q);
+
+        if($x == $n){
+            return "é complementar: Cn,p = $result1; e Cn,q = $result2";
+        }else{
+            return "não é complementar: Cn,p = $result1; e Cn,q = $result2";
+        }
+       
+    }
+
+    public function triangulo_paschal(){
+        
+    }
+
+    public function binomio_newton(){
+        
+    }
+
 }
 
 $newAnalise = new AnaliseCombinatoria();
 
-print_r($newAnalise->arranjo_simples(4,2));
+print_r($newAnalise->binomiais_complementares(7,2,6));
 
 
 
