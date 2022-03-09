@@ -154,8 +154,28 @@ class AnaliseCombinatoria{
        
     }
 
-    public function triangulo_paschal(){
-        /* TRINGULO DE PASCHAL */
+    public function triangulo_paschal($n, $p){
+
+        /* TRIÂNGULO DE PASCAL 
+            Triângulo de Pascal é um triângulo aritmético infinito 
+            onde são dispostos os coeficientes das expansões binominais.
+            (n,p=0) = 1
+            (n,p=1) = n
+            (n,p=n) = 1
+        */
+
+        /* 	0	1	2	3	4	5	6   
+            0	1	1	1	1	1	1	1
+            1	1	2	3	4	5	6	
+            2	1	3	6	10	15		
+            3	1	4	10	20			
+            4	1	5	15				
+            5	1	6					
+            6	1					
+         */
+
+        $this->combinacao_simples($n, $p);
+
     }
 
     public function binomio_newton(){
@@ -164,9 +184,60 @@ class AnaliseCombinatoria{
 
 }
 
-$newAnalise = new AnaliseCombinatoria();
+class Relacao{
 
-print_r($newAnalise->binomiais_complementares(9,3,6));
+    public function produto_cartesiano($x,$y){
+        /* PRODUTO CARTESIANO
+        apresentação grafica da relação em dois grupos A e B
+
+        Ex.
+
+        A={0,1,3,4} e B={-1,0,1,2,3}
+        0 -> -1,0,1,2,3
+        1 -> -1,0,1,2,3
+        3 -> -1,0,1,2,3
+        4 -> -1,0,1,2,3
+
+        A={0,1,3,4} e B= [-1,2[
+        0 -> -1 até 2
+        1 -> -1 até 2
+        3 -> -1 até 2
+        4 -> -1 até 2
+
+        A=[0,4] e B= [-1,2[
+        0 até 4 -> -1 até 2
+        0 até 4 -> -1 até 2
+        0 até 4 -> -1 até 2
+        0 até 4 -> -1 até 2
+    
+
+        */
+    }
+
+    public function relacao_binaria($x,$y){
+        /* 
+        RELAÇÃO BINÁRIA
+        RELAÇÃO REFLEXIVA
+        RELAÇÃO SIMÉTRICA
+        RELAÇÃO ANTSSIMÉTRICA
+        RELAÇÃO TRANSITIVA
+            
+        */
+    }
+
+    public function funcao($x,$y){
+        /* 
+
+        */
+    }
+}
+
+
+$newAnalise = new AnaliseCombinatoria();
+$newRelacao = new Relacao();
+
+print_r($newRelacao->produto_cartesiano(1,2));
+
 
 
 
