@@ -82,4 +82,4 @@
 <br>
 
 ### Autor <br>
-<img src="https://github.com/wevertoncamposdev.png" width=115><br><sub>@wevertoncampos</sub>
+<img src="https://github.com/wevertoncamposdev.png" width=115><br><sub>Weverton Campos</sub>
