@@ -75,11 +75,11 @@
 >*  ViaCEP <https://viacep.com.br/>
 >*  API Governamental <https://www.gov.br/conecta/catalogo/>; <https://www.portaltransparencia.gov.br/api-de-dados>
 
+### Contribuidores <br>
+<a href="https://github.com/wevertoncamposdev/study_programming/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=wevertoncamposdev/study_programming" /></a>
 
-<a href="https://github.com/study_programming/study_programming/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=
-study_programming/study_programming" />
-</a>
+<br>
 
-
+### Autor <br>
 <img src="https://github.com/wevertoncamposdev.png" width=115><br><sub>@wevertoncampos</sub>
