@@ -5,15 +5,15 @@ class Funcao{
         this.y = y;
     }
 
-    get getFuncao(){
-        return this.funcao_primeiro_grau()
-    }
-
     funcao_primeiro_grau(){
-
-        return this.y = (2 * this.x) + 1
+        return this.y = (-2 * this.x) + 1
     }
 }
 
-let a = new Funcao(-2,0);
-console.log(a.funcao_primeiro_grau());
+
+i = -2;
+while(i <= 2){
+    let a = new Funcao(i,0).funcao_primeiro_grau();
+    console.log(`${i} :  ${a}`)
+    i++
+}

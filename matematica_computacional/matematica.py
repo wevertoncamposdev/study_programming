@@ -7,12 +7,13 @@ class funcao:
         self.y = y
 
     def funcao_primeiro_grau(self):
-        y = (2 * self.x) + 1
+        y = (-2 * self.x) + 1
         return y
 
+i = -2
+while i <= 2:
+    a = funcao(i,0).funcao_primeiro_grau()
+    print(f"{i} : {a}")
+    i += 1
+
 """ FUNÇÃO """
-
-
-a = funcao(-2,0)
-print(a.funcao_primeiro_grau())
-

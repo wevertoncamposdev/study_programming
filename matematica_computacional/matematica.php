@@ -225,11 +225,11 @@ class Relacao{
         */
     }
 
-    public function funcao($x, $y){
+    public function funcao_primeiro_grau($x, $y){
         /* 
         y = 2x + 1
         */
-        $y = (2 * $x) + 1;
+        $y = (-2 * $x) + 1;
 
         return $y;
 
@@ -237,11 +237,12 @@ class Relacao{
 }
 
 /* $newAnalise = new AnaliseCombinatoria(); */
-$newRelacao = new Relacao();
-
-print_r($newRelacao->funcao(50,0));
-
-
+$i = -2;
+while($i <= 2){
+    $a = new Relacao();
+    print_r("$i : {$a->funcao_primeiro_grau($i,0)} \n");
+    $i++;
+}
 
 
 
