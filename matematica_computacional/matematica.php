@@ -214,14 +214,14 @@ class Relacao{
         */
     }
 
-    public function relacao_binaria($x,$y){
+    public function relacao($x,$y){
         /* 
-        RELAÇÃO BINÁRIA
-        RELAÇÃO REFLEXIVA
-        RELAÇÃO SIMÉTRICA
-        RELAÇÃO ANTSSIMÉTRICA
-        RELAÇÃO TRANSITIVA
-            
+        RELAÇÃO 
+        PROPRIEDADES: 
+            REFLEXIVA
+            SIMÉTRICA
+            ANTSSIMÉTRICA
+            TRANSITIVA
         */
     }
 
