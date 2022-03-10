@@ -1,15 +1,18 @@
 
-""" TRIÂNGULO DE PASCAL """
+""" FUNÇÃO """
+class funcao:
 
-def pascal_t(m,n):
-    if m == 0 and n ==0:
-        return 1
-    elif n == -1 or m == -1:
-        return 0
-    else:
-        return pascal_t(m-1, n-1) + pascal_t(m-1,n)
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+    def funcao_primeiro_grau(self):
+        y = (2 * self.x) + 1
+        return y
+
+""" FUNÇÃO """
 
 
-print(pascal_t(5,4))
+a = funcao(-2,0)
+print(a.funcao_primeiro_grau())
 
-""" TRIÂNGULO DE PASCAL """

@@ -225,18 +225,21 @@ class Relacao{
         */
     }
 
-    public function funcao($x,$y){
+    public function funcao($x, $y){
         /* 
-
+        y = 2x + 1
         */
+        $y = (2 * $x) + 1;
+
+        return $y;
+
     }
 }
 
-
-$newAnalise = new AnaliseCombinatoria();
+/* $newAnalise = new AnaliseCombinatoria(); */
 $newRelacao = new Relacao();
 
-print_r($newRelacao->produto_cartesiano(1,2));
+print_r($newRelacao->funcao(50,0));
 
 
 
