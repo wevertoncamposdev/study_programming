@@ -1,24 +1,11 @@
-class Funcao {
-
-    constructor(x, y, z) {
-        this.x = x;
-        this.y = y;
-        this.z = z;
-    }
-
-    funcao_primeiro_grau() {
-        return this.y = (this.z * this.x) + 1
-    }
-}
-
-
+import {Funcao} from './matematica.js';
 
 google.charts.load('current', { 'packages': ['annotationchart'] });
 google.charts.setOnLoadCallback(drawChart);
 
 function chart(x,y,z){
 
-    var a = calc(x,y,z)
+    var a = calc(x,y, z)
 
     for (let i = 0; i < a.length; i++) {
         var data = google.visualization.arrayToDataTable([
@@ -28,7 +15,7 @@ function chart(x,y,z){
 
 
     var options = {
-        title: 'Grafico de Função Crescente',
+        title: 'Grafico de Função',
         hAxis: { title: 'x' },
         vAxis: { title: 'y' },
         legend: 'none',
@@ -42,7 +29,7 @@ function chart(x,y,z){
 
 function drawChart() {
 
-    chart(-2, 2, 20);
+    chart(-2, 2, 2);
 
     let btn = document.getElementById('btn')
     btn.addEventListener('click', () => {
@@ -55,6 +42,7 @@ function drawChart() {
 }
 
 function calc(x, y, z) {
+    
     
     var arr = new Array();
 
