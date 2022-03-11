@@ -117,6 +117,14 @@ connection.query('SELECT * FROM heroku_ad279c73e8320b2.analise WHERE numero = 01
 
 ~~~
 
+~~~
+response
+
+connected as id 149798755
+9%
+connection closed! 
+~~~
+
 >*   Realizando conexão com banco de dados em nuvem, usando o CleaDB do Heroku com NodeJs usando o modulo mysql
 >*   Usando variaveis de ambiente com o modulo dotenv
 
