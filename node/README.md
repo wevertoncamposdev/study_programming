@@ -13,25 +13,33 @@
 <br>
 
 ~~~javascript
-/* CREATE SERVER */
+
+/* 
+    http; morgan(log)
+*/
 
 const http = require('http');
+const morgan = require('morgan');
+var logger = morgan('combined')
+
 const hostname = '127.0.0.1';
 const port = 3000;
 
-/* 
-    req - requisitions are requests made by the customer
-    res - responses, are the responses that the server delivers to the client 
-*/
-
+/* Request - Solicitação/Requisição do Cliente */
+/* Response - Resposta do servidor */
 const server = http.createServer((req, res) => {
-  res.statusCode = 200; // https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
-  res.setHeader('Content-Type', 'text/plain'); // Header
-  res.end('Hello World'); // response
+    logger(req, res, function (err) {
+        if (err) return done(err)
+        res.statusCode = 200;
+        res.setHeader('Content-Type', 'text/plain');
+        res.write(`Server running at http://${hostname}:${port}/`)
+        res.end();
+    });
 });
 
+
 server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
+    console.log(`Server running at http://${hostname}:${port}/`);
 });
 
 ~~~
