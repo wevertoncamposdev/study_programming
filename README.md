@@ -72,6 +72,10 @@
 >*  Principio Multiplicativo
 >*  Relações
 >*  Funções, Funções 1°, Funções 1°
+>* ![Math](https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/42/000000/external-math-campus-activity-inipagistudio-mixed-inipagistudio.png)
+[Math](https://github.com/wevertoncamposdev/study_programming/blob/main/matematica_computacional/matematica.php)
+
+
 
 >### API's
 >*  Autenticação de acesso <https://auth0.com/docs/>
