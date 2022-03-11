@@ -355,9 +355,58 @@ Denominamos função do segundo grau, na variável x, toda função f: R → R q
 ### Funções Inversas
 ### Funções de 1° Grau
 ### Funções de 2° Grau
+<br>
 
 <html>
 
+<head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="">
+        class Funcao {
+            constructor(x, y, z) {
+                this.x = x;
+                this.y = y;
+                this.z = z;
+            }
+            funcao_primeiro_grau() {
+                return this.y = (this.z * this.x) + 1
+            }
+        }
+        function calc(x, y, z) {
+            var arr = new Array();
+            while (x < y) {
+                let a = new Funcao(x, y, z).funcao_primeiro_grau();
+                arr.push([x, a]);
+                x++
+            }
+            return arr;
+        }
+        google.charts.load('current', { 'packages': ['annotationchart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        function drawChart() {
+            let a = calc(-2, 5, 100)
+            console.log(a);
+            a.forEach((e)=>{
+                console.log(e);
+            })
+            var data = google.visualization.arrayToDataTable([
+                ['x', 'y'], a[0], a[1], a[2], a[3]
+            ]);
+            var options = {
+                title: 'Grafico de Função',
+                hAxis: { title: 'x' },
+                vAxis: { title: 'y' },
+                legend: 'none',
+                trendlines: { 0: {} }    // Draw a trendline for data series 0.
+            };
+            var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        }
+    </script>
+</head>
+<body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+</body>
 </html>
 
 
