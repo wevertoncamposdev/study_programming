@@ -22,7 +22,7 @@
 ![NodeJS](https://img.icons8.com/color/42/000000/nodejs.png)
 [NodeJS](https://github.com/wevertoncamposdev/study_programming/tree/main/node)
 
-![PHP](https://img.icons8.com/fluency/42/000000/php.png)
+![PHP](https://img.icons8.com/officel/50/000000/php-logo.png)
 [PHP](https://github.com/wevertoncamposdev/study_programming/tree/main/php)
 
 

@@ -1,18 +1,7 @@
-# Estudo de Linguagem de Programação: Python
-###### Autor: Weverton Campos
-
-### Código
-<hr>
-<br>
-
-![Python](https://img.icons8.com/color/50/000000/python--v1.png)
-~~~python
-
 """ 
 python -m pip install mysql-connector-python
 python -m pip install python-dotenv
-
-"""
+ """
 import mysql.connector
 import os
 from os.path import join, dirname
@@ -36,12 +25,3 @@ mycursor = mydb.cursor()
 mycursor.execute("SHOW TABLES")
 for x in mycursor:
     print(x)
-
-
-~~~
-
->*   Realizando conexão com banco de dados em nuvem, usando o CleaDB do Heroku com Python usando o modulo mysql
->*   Usando variaveis de ambiente com o modulo dotenv
-
-
-<br><hr><br>
