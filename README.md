@@ -14,8 +14,7 @@
 [JavaScript](https://github.com/wevertoncamposdev/study_programming/tree/main/javascript)
 <!-- [JavaScript](https://github.com/wevertoncamposdev/study_programming/search?l=javascript) -->
 
-
-![Math](https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-math-campus-activity-inipagistudio-mixed-inipagistudio.png)
+<img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/42/000000/external-math-campus-activity-inipagistudio-mixed-inipagistudio.png">
 [Math](https://github.com/wevertoncamposdev/study_programming/tree/main/matematica_computacional)
 
 
