@@ -12,12 +12,11 @@
 
 ![JavaScript](https://img.icons8.com/color/50/000000/javascript--v1.png)
 [JavaScript](https://github.com/wevertoncamposdev/study_programming/tree/main/javascript)
-[JavaScript](https://github.com/wevertoncamposdev/study_programming/search?l=javascript)
+<!-- [JavaScript](https://github.com/wevertoncamposdev/study_programming/search?l=javascript) -->
 
 
-![Math](https://icons8.com/icon/dgEB94D1OdXE/math)
+![Math](https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-math-campus-activity-inipagistudio-mixed-inipagistudio.png)
 [Math](https://github.com/wevertoncamposdev/study_programming/tree/main/matematica_computacional)
-
 
 
 ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
