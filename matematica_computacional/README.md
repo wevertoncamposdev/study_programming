@@ -358,7 +358,6 @@ Denominamos função do segundo grau, na variável x, toda função f: R → R q
 <br>
 
 <html>
-
 <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript" src="">
