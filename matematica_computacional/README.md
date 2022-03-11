@@ -137,40 +137,40 @@ C15,6C60,6=5.00550.063.860≈ 0,00009997 = 0,009997%
 
 C60,6C15,6=50.063.8605.005 ~ 10.002 
 ## **Relações**
-### Exemplo:  
-### Considere a relação R ={(x,y),x>y} em A = {1,2,3,4}. Verifique quais propriedades (reflexiva, simétrica, antissimétrica e transitiva) são verificadas para R.
-### **Determinando os elementos: R ={(x,y),x>y}**
-### **R = {(2,1),(3,1),(3,2),(4,1),(4,2),(4,3)}**
+Exemplo:  
+Considere a relação R ={(x,y),x>y} em A = {1,2,3,4}. Verifique quais propriedades (reflexiva, simétrica, antissimétrica e transitiva) são verificadas para R.
+**Determinando os elementos: R ={(x,y),x>y}**
+**R = {(2,1),(3,1),(3,2),(4,1),(4,2),(4,3)}**
 
-- ### **Propriedade Reflexiva**
-  - ### R é reflexiva se ∀x ∈ A, (x,x) ∈ R
-  - ### se (∀x) todo x; (∈ A) pertencente a A; (x,x) ∈ R x,x pertence a R
-  - ### R não é reflexiva, pois não existe nenhum elemento(x,x) ∈ R
+- **Propriedade Reflexiva**
+  - R é reflexiva se ∀x ∈ A, (x,x) ∈ R
+  - se (∀x) todo x; (∈ A) pertencente a A; (x,x) ∈ R x,x pertence a R
+  - R não é reflexiva, pois não existe nenhum elemento(x,x) ∈ R
 
-- ### **Propriedade Simétrica**
-  - ### R é simétrica se ∀x,y ∈ A,((x,y) ∈ R)→(y,x)∈ R
-  - ### ` `∀x,y ∈ A todo x,y pertencente ao conjunto A
-  - ### ((x,x) ∈ R)→(y,x)∈ R, quando inverte os elementos também pertence a R
-  - ### R não é simétrica, pois para cada (x,x) ∈ R, não encontramos nenhum (y,x)∈ R. tem o (2,1), mas não tem o (1,2) 
+-  **Propriedade Simétrica**
+  -  R é simétrica se ∀x,y ∈ A,((x,y) ∈ R)→(y,x)∈ R
+  -  ` `∀x,y ∈ A todo x,y pertencente ao conjunto A
+  -  ((x,x) ∈ R)→(y,x)∈ R, quando inverte os elementos também pertence a R
+  -  R não é simétrica, pois para cada (x,x) ∈ R, não encontramos nenhum (y,x)∈ R. tem o (2,1), mas não tem o (1,2) 
 
-- ### **Propriedade antissimétrica**
-  - ### R é antissimétrica se ∀x,y ∈ A,
-  - ### ((x,y) ∈ R e (y,x)∈ R)→x=y
-  - ### R é antissimétrica, pois não contradiz a propriedade acima não há 
+-  **Propriedade antissimétrica**
+  -  R é antissimétrica se ∀x,y ∈ A,
+  -  ((x,y) ∈ R e (y,x)∈ R)→x=y
+  -  R é antissimétrica, pois não contradiz a propriedade acima não há 
 
-- ### **Propriedade Transitiva**
-  - ### R é transitiva se ∀x,y,z ∈ A,
-  - ### ((x,y) ∈ R e (y,z) ∈ R)→(x,z)∈ R
-  - ### R é transitiva, pois existem elementos que se relacionam na fórmula acima. 
-  - ### ((4,3) ∈ R e (3,2) ∈ R)→(4,2)∈ R
-  - ### ((4,3) ∈ R e (3,1) ∈ R)→(4,1)∈ R
-  - ### ((4,2) ∈ R e (2,1) ∈ R)→(4,1)∈ R
-  - ### ((3,2) ∈ R e (2,1) ∈ R)→(3,1)∈ R
+-  **Propriedade Transitiva**
+  -  R é transitiva se ∀x,y,z ∈ A,
+  -  ((x,y) ∈ R e (y,z) ∈ R)→(x,z)∈ R
+  -  R é transitiva, pois existem elementos que se relacionam na fórmula acima. 
+  -  ((4,3) ∈ R e (3,2) ∈ R)→(4,2)∈ R
+  -  ((4,3) ∈ R e (3,1) ∈ R)→(4,1)∈ R
+  -  ((4,2) ∈ R e (2,1) ∈ R)→(4,1)∈ R
+  -  ((3,2) ∈ R e (2,1) ∈ R)→(3,1)∈ R
 
-### **Domínio, Contradomínio e Imagem**
-## Em uma relação R de A em B, o conjunto dos valores x  A que estão associados a valores y ∈ B é denominado domínio da relação e denotamos por **D (R)**. 
-## E os valores y que estão associados a valores x compõem o conjunto que denominamos imagem da relação e denotamos por **Im (R).** 
-## O conjunto B, que contém a imagem da relação, é denominado contradomínio da relação e é denotado por **CD (R).**
+ **Domínio, Contradomínio e Imagem**
+ Em uma relação R de A em B, o conjunto dos valores x  A que estão associados a valores y ∈ B é denominado domínio da relação e denotamos por **D (R)**. 
+ E os valores y que estão associados a valores x compõem o conjunto que denominamos imagem da relação e denotamos por **Im (R).** 
+ O conjunto B, que contém a imagem da relação, é denominado contradomínio da relação e é denotado por **CD (R).**
 
 - **Exemplo 3**
 
