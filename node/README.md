@@ -6,6 +6,12 @@
 
 ## Protocolo HTTP : [HTTP MDN ](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
 
+
+Data 11/03/2022 16:00
+***
+
+<br>
+
 > HTTP é um protocolo (protocol) que permite a obtenção de recursos, como documentos HTML. É a base de qualquer troca de dados na Web e um protocolo cliente-servidor, o que significa que as requisições são iniciadas pelo destinatário, geralmente um navegador da Web. Um documento completo é reconstruído a partir dos diferentes sub-documentos obtidos, como por exemplo texto, descrição do layout, imagens, vídeos, scripts e muito mais.
 
 
