@@ -46,7 +46,7 @@ server.listen(port, hostname, () => {
 
 
 ~~~
-request logger
+logger
 
 Server running at http://127.0.0.1:3000/
 127.0.0.1 - - [11/Mar/2022:19:16:49 +0000] "GET /teste/teste HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"
