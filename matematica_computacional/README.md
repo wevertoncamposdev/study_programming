@@ -356,6 +356,12 @@ Denominamos função do segundo grau, na variável x, toda função f: R → R q
 ### Funções de 1° Grau
 ### Funções de 2° Grau
 
+<html>
+
+</html>
+
+
+
 
 
 
