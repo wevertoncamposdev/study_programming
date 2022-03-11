@@ -360,7 +360,7 @@ Denominamos função do segundo grau, na variável x, toda função f: R → R q
 <html>
 <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript" src="">
+    <script type="text/javascript">
         class Funcao {
             constructor(x, y, z) {
                 this.x = x;
@@ -405,6 +405,7 @@ Denominamos função do segundo grau, na variável x, toda função f: R → R q
 </head>
 <body>
     <div id="chart_div" style="width: 900px; height: 500px;"></div>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 </body>
 </html>
 
