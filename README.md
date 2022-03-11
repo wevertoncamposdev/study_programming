@@ -66,7 +66,13 @@
 >### Banco de Dados
 >*  Conexão e consultas com o banco de dados <https://dev.mysql.com/doc/>
 >*  BigQuery <https://cloud.google.com/bigquery/docs/quickstarts/quickstart-web-uis>
-> 
+>
+>### Matemática Computacional
+>*  Teoria dos Conjuntos
+>*  Principio Multiplicativo
+>*  Relações
+>*  Funções, Funções 1°, Funções 1°
+
 >### API's
 >*  Autenticação de acesso <https://auth0.com/docs/>
 >*  Criptografia <https://nodejs.org/api/crypto.html>
