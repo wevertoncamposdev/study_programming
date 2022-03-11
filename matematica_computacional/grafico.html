@@ -2,65 +2,12 @@
 
 <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-
-        class Funcao {
-
-            constructor(x, y, z) {
-                this.x = x;
-                this.y = y;
-                this.z = z;
-            }
-
-            funcao_primeiro_grau() {
-                return this.y = (this.z * this.x) + 1
-            }
-        }
-
-        function calc(x, y, z) {
-            var arr = new Array();
-
-            while (x < y) {
-                let a = new Funcao(x, y, z).funcao_primeiro_grau();
-                arr.push([x, a]);
-                x++
-            }
-
-            return arr;
-
-        }
-
-        google.charts.load('current', { 'packages': ['annotationchart'] });
-        google.charts.setOnLoadCallback(drawChart);
-
-
-        function drawChart() {
-
-            let a = calc(-2, 5, 100)
-            console.log(a);
-            a.forEach((e)=>{
-                console.log(e);
-            })
-
-            var data = google.visualization.arrayToDataTable([
-                ['x', 'y'], a[0], a[1], a[2], a[3]
-            ]);
-            var options = {
-                title: 'Grafico de Função',
-                hAxis: { title: 'x' },
-                vAxis: { title: 'y' },
-                legend: 'none',
-                trendlines: { 0: {} }    // Draw a trendline for data series 0.
-            };
-
-            var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
-            chart.draw(data, options);
-        }
-
-    </script>
+    <script type="text/javascript" src="./chartFuncao.js"></script>
 </head>
 
 <body>
+    <input id="value" type="number" name="" value="20"></input>
+    <button id="btn" type="button" name="">Calcular</button>
     <div id="chart_div" style="width: 900px; height: 500px;"></div>
 </body>
 
