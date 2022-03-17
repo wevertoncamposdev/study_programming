@@ -1,0 +1,33 @@
+#config reescrita de url
+# rewrite engine settings:
+# RewriteEngine on - ligando o rewrite
+# rewrite rules:
+# RewriteRule [origem], [destino]
+# flags - RewriteRule ^admin$ ./index.php = [NC]non-case
+
+# You don't have permission to access this resource., bloquear acesso a arquivos e diretorios
+Options -Indexes 
+
+#iniciando o motor rewrite    
+RewriteEngine on
+
+#rota painel - /? permite com barra ou sem barra
+RewriteRule ^painel/?$ ./index.php
+
+#Criar rotas com expressão regular com um grupo
+RewriteRule ^painel/([a-z0-9]+)/?$ ./admin.php?modulo=$1
+
+#Criar rotas com expressão regular com dois grupo
+RewriteRule ^painel/([a-z0-9]+)/([a-z0-9]+)/? ./admin.php?modulo=$1&acao=$2 [QSA]
+
+
+#Criar qualquer rota
+#RewriteCond VARIAVEL OPERADOR - criar condicionais
+#verificar se existe arquivo
+RewriteCond %{REQUEST_FILENAME} !-f 
+#verificar se existe diretorio
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteRule ^(.*)$ ./router.php
+
+#redirecionar para alguma url
+RewriteRule google https://www.google.com [R=302]
