@@ -8,6 +8,12 @@
 ![Arduino](https://img.icons8.com/fluency/50/000000/arduino.png)
 -->
 
+### Trabalhos Recentes
+
+![API Laravel](https://github.com/wevertoncamposdev/apiprojectbywevertoncampos); 
+[Site ONG Creche Alvorada](https://crechealvorada.org)
+
+
 <hr>
 
 ![JavaScript](https://img.icons8.com/color/42/000000/javascript--v1.png)
