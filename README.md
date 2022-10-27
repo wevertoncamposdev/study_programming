@@ -1,5 +1,5 @@
 # Estudo de Linguagem de Programação
-###### Autor: Weverton Campos
+###### Autor: Weverton Cristiano Moreira de Campos
 
 
 <!-- ![json](https://img.icons8.com/ios/50/000000/json.png)  -->
